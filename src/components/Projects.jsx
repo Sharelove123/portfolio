@@ -4,19 +4,31 @@ import { ExternalLink, Github, Youtube } from 'lucide-react';
 const Projects = () => {
     const projects = [
         {
+            title: "Multi-Tenant Content Automation",
+            tech: ["Next.js", "Django REST", "Celery", "Redis", "Stripe"],
+            description: "SaaS platform for automated social media publishing. Features tenant isolation, OAuth2 social integration, background task processing with Celery, and Stripe billing.",
+            video: "https://www.youtube.com/watch?v=MQLr6CvlGPA",
+            links: []
+        },
+        {
             title: "Full-Stack eCommerce",
             tech: ["Next.js", "Django REST", "PostgreSQL", "PayPal"],
             description: "Built a full-stack eCommerce web app. Features secure authentication, product management, shopping cart, and PayPal integration.",
-            video: "https://youtube.com/shorts/EEX6L1K_Ybc?si=G1j8kiS7qyBi-8rv",
-            links: [
-                // Assuming Github link wasn't provided in resume summary, so just adding Video Demo
-            ]
+            video: "https://www.youtube.com/shorts/EEX6L1K_Ybc",
+            links: []
+        },
+        {
+            title: "Learning Management System",
+            tech: ["Django", "WebSockets", "TailwindCSS", "JavaScript"],
+            description: "Comprehensive LMS with role-based auth, course creation, real-time commenting via WebSockets, and educational marketplace features.",
+            video: "https://www.youtube.com/shorts/DL3IorReKpQ",
+            links: []
         },
         {
             title: "Flutter eCommerce App",
             tech: ["Flutter", "Riverpod", "Firebase"],
             description: "A beginner-friendly mobile app with Google/Facebook auth, product search, cart management, and personalized seller dashboards.",
-            video: "https://youtu.be/mIHrwDiWNkw?si=YUrcUQ3swuT5OVOE",
+            video: "https://www.youtube.com/watch?v=mIHrwDiWNkw",
             links: []
         }
     ];

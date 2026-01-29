@@ -4,8 +4,8 @@ const Skills = () => {
     const skills = [
         "Python", "JavaScript", "Dart",
         "React", "Next.js", "Django", "Django REST Framework",
-        "Flutter", "Firebase", "PostgreSQL",
-        "Git", "Docker", "VS Code"
+        "Flutter", "Kivy", "KivyMD", "Firebase", "PostgreSQL",
+        "Git", "Docker", "VS Code", "PyCharm"
     ];
 
     const container = {
