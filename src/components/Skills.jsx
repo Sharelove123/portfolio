@@ -5,6 +5,7 @@ const Skills = () => {
         "Python", "JavaScript", "Dart",
         "React", "Next.js", "Django", "Django REST Framework",
         "Flutter", "Kivy", "KivyMD", "Firebase", "PostgreSQL",
+        "Celery", "Redis",
         "Git", "Docker", "VS Code", "PyCharm"
     ];
 
