@@ -15,7 +15,7 @@ const Projects = () => {
             tech: ["Next.js", "Django REST", "PostgreSQL", "PayPal"],
             description: "Built a full-stack eCommerce web app. Features secure authentication, product management, shopping cart, and PayPal integration.",
             video: "https://www.youtube.com/shorts/EEX6L1K_Ybc",
-            links: []
+            links: ["https://eccomerce-django-and-next.vercel.app/"]
         },
         {
             title: "Learning Management System",
