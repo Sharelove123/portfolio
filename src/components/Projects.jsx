@@ -42,7 +42,7 @@ const Projects = () => {
             title: "QuoteVault",
             tech: ["flutter", "riverpod", "supabase"],
             description: "QuoteVault is a beautiful, feature-rich Flutter application designed to inspire users with daily quotes, organized collections, and customizable sharing options. It features a modern, adaptive UI with dark/light mode support, user authentication, and cloud sync via Supabase.",
-            video: "https://deckovizassigment-wp65.onrender.com",
+            video: "https://youtube.com/shorts/HL9XDj1AkFE?si=GxzNAZtQvWmFPAuv",
             links: []
         }
     ];
