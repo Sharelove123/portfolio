@@ -30,6 +30,13 @@ const Projects = () => {
             description: "A beginner-friendly mobile app with Google/Facebook auth, product search, cart management, and personalized seller dashboards.",
             video: "https://www.youtube.com/watch?v=mIHrwDiWNkw",
             links: []
+        },
+        {
+            title: "Vizzy Chat",
+            tech: ["Django", "Ai", "sqlite"],
+            description: "A chatgpt like interface where you can chat with ai generate images and videos and refine them",
+            video: "https://deckovizassigment-wp65.onrender.com",
+            links: []
         }
     ];
 
