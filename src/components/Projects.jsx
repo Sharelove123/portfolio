@@ -7,21 +7,21 @@ const Projects = () => {
             title: "Multi-Tenant Content Automation",
             tech: ["Next.js", "Django REST", "Celery", "Redis", "Stripe"],
             description: "SaaS platform for automated social media publishing. Features tenant isolation, OAuth2 social integration, background task processing with Celery, and Stripe billing.",
-            video: "https://www.youtube.com/watch?v=MQLr6CvlGPA",
-            links: []
+            video: "https://uploadanywherefrontend.vercel.app/",
+            links: ["https://uploadanywherefrontend.vercel.app/"]
         },
         {
             title: "Full-Stack eCommerce",
             tech: ["Next.js", "Django REST", "PostgreSQL", "PayPal"],
             description: "Built a full-stack eCommerce web app. Features secure authentication, product management, shopping cart, and PayPal integration.",
-            video: "https://www.youtube.com/shorts/EEX6L1K_Ybc",
+            video: "https://eccomerce-django-and-next.vercel.app/",
             links: ["https://eccomerce-django-and-next.vercel.app/"]
         },
         {
             title: "Learning Management System",
             tech: ["Django", "WebSockets", "TailwindCSS", "JavaScript"],
             description: "Comprehensive LMS with role-based auth, course creation, real-time commenting via WebSockets, and educational marketplace features.",
-            video: "https://www.youtube.com/shorts/DL3IorReKpQ",
+            video: "https://uploadanywherebackend-p6gn.onrender.com",
             links: []
         },
         {
@@ -78,10 +78,11 @@ const Projects = () => {
                                     className="btn btn-primary"
                                     style={{ fontSize: '0.9rem', padding: '0.5rem 1rem', width: '100%', justifyContent: 'center' }}
                                 >
-                                    <Youtube size={18} /> Watch Demo
+                                    <Youtube size={18} /> Live Demo
                                 </a>
                             )}
                         </div>
+
                     </motion.div>
                 ))}
             </div>
