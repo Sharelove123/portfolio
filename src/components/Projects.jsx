@@ -25,16 +25,16 @@ const Projects = () => {
             links: []
         },
         {
-            title: "Flutter eCommerce App",
-            tech: ["Flutter", "Riverpod", "Firebase"],
-            description: "A beginner-friendly mobile app with Google/Facebook auth, product search, cart management, and personalized seller dashboards.",
-            video: "https://www.youtube.com/watch?v=mIHrwDiWNkw",
+            title: "Multivendor E-Commerce App",
+            tech: ["Flutter", "Riverpod", "GoRouter", "Dio", "WebSockets"],
+            description: "A feature-rich multivendor marketplace with dedicated customer and vendor flows. Includes real-time chat, product discovery with advanced filtering, cart/wishlist management, and a comprehensive vendor dashboard for inventory and order tracking.",
+            video: "https://github.com/Sharelove123/FlutterLiveApps/blob/main/multivendoreccomerceapp/app-release.apk",
             links: []
         },
         {
             title: "Vizzy Chat",
-            tech: ["Django", "Ai", "sqlite"],
-            description: "A chatgpt like interface where you can chat with ai generate images and videos and refine them",
+            tech: ["Django", "Gemini AI", "SQLite"],
+            description: "An intuitive AI-powered chat interface that allows users to interact with language models, generate dynamic images and videos, and perform real-time refinements through an iterative prompting workflow.",
             video: "https://deckovizassigment-wp65.onrender.com",
             links: []
         },
