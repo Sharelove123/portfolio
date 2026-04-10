@@ -21,7 +21,7 @@ const Projects = () => {
             title: "Learning Management System",
             tech: ["Django", "WebSockets", "TailwindCSS", "JavaScript"],
             description: "Comprehensive LMS with role-based auth, course creation, real-time commenting via WebSockets, and educational marketplace features.",
-            video: "https://uploadanywherebackend-p6gn.onrender.com",
+            video: "https://lms-4vfj.onrender.com",
             links: []
         },
         {
